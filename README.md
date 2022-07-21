@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Amal</h1>
 <h3 align="center">A passionate Android developer, Data Science and Machine Learning Enthusiast</h3>
-<image align="right" alt="coding" width="240" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<image align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal642&label=Profile%20views&color=0e75b6&style=flat" alt="amal642" /> </p>
 
